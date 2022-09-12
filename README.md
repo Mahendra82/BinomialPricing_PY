@@ -7,7 +7,7 @@ This model is not meant to be used to trade real options but it is a good starti
 If you would like to use it for development or to integrate it into your own model, either clone or download it. 
 
 ```
-git clone https://github.com/VivekPa/BinomialOptModel
+git clone https://github.com/Mahendra82/BinomialPricing_PY
 ```
 
 
