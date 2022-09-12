@@ -1,3 +1,5 @@
+
+Thanks to @vivekpa greatly benefitted from BinomialOptModel
 # BinomialOptModel
 This is a python program to price American and European Options using the Binomial Option Pricing Model. 
 
