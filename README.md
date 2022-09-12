@@ -69,6 +69,6 @@ First, we set up the binomial stock price tree. Given an initial stock price `S0
 -insert diagram-
 There is also the risk free interest rate `r`, which is the rate of return on money put in a risk free bond or in a bank. One implication of the no arbitrage criteria is that `d<1+r<u`. The no arbitrage criteria means that the value of the portfolio that replicates the return of the option will equal to the price of the option. Therefore, given the return of the option at the end node, we can calculate recursively to find the value of the portfolio at the initial node, which is essentially the price of the option.
 
-## Conclusion
-
-Although not a model to beat the market, this model is the best way to learn both about stock option pricing and Python programming. Personally, this project is my first medium scale Python project, so if you enjoyed this or learnt something, don’t forget to leave a star! If you intend to read further about options pricing, I would recommend Stochastic Calculus for Finance I and II by Steven Shreve.
+Refer
+**Stochastic Calculus for Finance (I and II) by Steven Shreve.
+**
